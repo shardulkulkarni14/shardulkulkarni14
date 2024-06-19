@@ -1,24 +1,33 @@
 # 👋 Hi there, I'm Shardul Kulkarni!
 
+![Profile views](https://gpvc.arturio.dev/shardulkulkarni14)
+[![GitHub followers](https://img.shields.io/github/followers/shardulkulkarni14?label=Follow&style=social)](https://github.com/shardulkulkarni14)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-kulkarni14/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:shardul.ask@gmail.com)
+
 Welcome to my GitHub profile! I'm an AI Engineer at mediMESH, a researcher, and a data science enthusiast with a passion for machine learning, deep learning, and blockchain technologies. I thrive on solving complex problems and contributing to innovative projects that make a real-world impact.
 
-## 🌟 About Me
+## 🌟 GitHub Achievements
 
-With a solid background in AI and data science, I have developed a variety of end-to-end solutions in computer vision, deep learning, and data privacy. My work at mediMESH involves creating AI-based anonymization pipelines and custom face detection modules, significantly improving processing times and enhancing data privacy standards.
+### 🏆 GitHub Achievements
 
-In addition to my professional experience, I actively contribute to open-source machine learning projects and have a keen interest in exploring new technologies and methodologies.
+Here are some notable achievements I have received on GitHub:
+
+![Arctic Code Vault Contributor](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-blue?style=flat&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/shardulkulkarni14?label=Stars&style=social)
+![Forks](https://img.shields.io/github/forks/shardulkulkarni14?label=Forks&style=social)
+![Watchers](https://img.shields.io/github/watchers/shardulkulkarni14?label=Watchers&style=social)
 
 ## 🔗 Connect with Me
 
-I'm always open to connecting with fellow tech enthusiasts, potential collaborators, and anyone interested in AI and data science. Feel free to reach out to me through the following platforms:
-
+Feel free to reach out to me through the following platforms:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-kulkarni14/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/shardulkulkarni14)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shardul.ask@gmail.com)
 
 ## 🚀 Skills and Technologies
 
-### Programming Languages:
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
@@ -31,11 +40,11 @@ I'm always open to connecting with fellow tech enthusiasts, potential collaborat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
 ### Data Science:
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Recommender Systems
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green?style=flat&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?style=flat&logo=deep-learning&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue?style=flat&logo=opencv&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-red?style=flat&logo=nlp&logoColor=white)
+![Recommender Systems](https://img.shields.io/badge/-Recommender%20Systems-purple?style=flat&logo=recommender&logoColor=white)
 
 ### Frameworks & Libraries:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
@@ -139,4 +148,3 @@ I'm always open to connecting with fellow tech enthusiasts, potential collaborat
 - Winner and Runner up of many Hackathons and Project Exhibitions.
 
 ---
-
