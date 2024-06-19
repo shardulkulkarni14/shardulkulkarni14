@@ -125,7 +125,7 @@ Feel free to reach out to me through the following platforms:
 
 ## 📚 Projects
 
-### [Multi-Perspective Video Analysis System - Master Thesis](https://github.com/shardulkulkarni14/Multi-Perspective-Video-Analysis)
+### Multi-Perspective Video Analysis System - Master Thesis
 - Created custom YOLO object detection models for hospital environment and designed a report generation module.
 - Built a multi-camera object tracking prototype for healthcare using Python, PyTorch, TensorFlow, Object Tracking.
 
