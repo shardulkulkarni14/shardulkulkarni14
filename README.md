@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Shardul Kulkarni!
 
-![Profile views](https://gpvc.arturio.dev/shardulkulkarni14)
+<!-- ![Profile views](https://gpvc.arturio.dev/shardulkulkarni14)
 [![GitHub followers](https://img.shields.io/github/followers/shardulkulkarni14?label=Follow&style=social)](https://github.com/shardulkulkarni14)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-kulkarni14/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:shardul.ask@gmail.com)
-
+ -->
 Welcome to my GitHub profile! I'm an AI Engineer at mediMESH, a researcher, and a data science enthusiast with a passion for machine learning, deep learning, and blockchain technologies. I thrive on solving complex problems and contributing to innovative projects that make a real-world impact.
 
-## 🌟 GitHub Achievements
+<!-- ## 🌟 GitHub Achievements
 
 ### 🏆 GitHub Achievements
 
@@ -16,7 +16,7 @@ Here are some notable achievements I have received on GitHub:
 ![Arctic Code Vault Contributor](https://img.shields.io/badge/-Arctic%20Code%20Vault%20Contributor-blue?style=flat&logo=github&logoColor=white)
 ![GitHub Stars](https://img.shields.io/github/stars/shardulkulkarni14?label=Stars&style=social)
 ![Forks](https://img.shields.io/github/forks/shardulkulkarni14?label=Forks&style=social)
-![Watchers](https://img.shields.io/github/watchers/shardulkulkarni14?label=Watchers&style=social)
+![Watchers](https://img.shields.io/github/watchers/shardulkulkarni14?label=Watchers&style=social) -->
 
 ## 🔗 Connect with Me
 
