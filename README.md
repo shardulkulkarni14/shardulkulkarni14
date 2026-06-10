@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Shardul Kulkarni!
 
-Welcome to my GitHub profile! I'm an **AI & Software Engineer** with specialized expertise in Computer Vision, Deep Learning, and Generative AI. I build large-scale ML systems from research to production, with a focus on healthcare applications. My background combines cutting-edge AI research with practical software engineering to deliver robust, scalable solutions.
+Welcome to my GitHub profile! I'm **CTO at MAindTec GmbH**, a B2B AI SaaS startup in Germany, where I lead end-to-end delivery of **GenAI and Agentic AI** programmes for enterprise clients in manufacturing and automotive. I build production agentic systems — multi-agent LangGraph orchestration, hybrid RAG (pgvector, BM25 + dense + Cohere reranking), MCP servers, LangSmith observability — and lead a team of 9 engineers from discovery through deployment. My background combines Generative AI, Computer Vision, and Deep Learning research with hands-on software engineering.
 
 ```javascript
 // AI expertise areas
 const expertise = {
-  domains: ["Computer Vision", "Deep Learning", "Generative AI", "MLOps"],
-  languages: ["Python", "C++", "JavaScript", "Go"],
-  frameworks: ["PyTorch", "TensorFlow", "LangChain", "HuggingFace"],
-  goals: "Building AI systems that solve real-world problems"
+  domains: ["Agentic AI", "Generative AI / RAG", "LLMOps", "Computer Vision"],
+  languages: ["Python", "TypeScript", "JavaScript", "SQL"],
+  frameworks: ["LangGraph", "LangChain", "FastAPI", "PyTorch", "Next.js"],
+  goals: "Shipping AI systems that solve real-world enterprise problems"
 };
 ```
 
@@ -34,6 +34,18 @@ const expertise = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white)
 
+### GenAI & Agentic AI:
+![LangGraph](https://img.shields.io/badge/-LangGraph-green?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-green?style=flat&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-black?style=flat&logo=langchain&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/-Claude_Agent_SDK-orange?style=flat&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/-MCP_Servers-purple?style=flat&logoColor=white)
+![Multi-Agent Orchestration](https://img.shields.io/badge/-Multi--Agent_Orchestration-blue?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_(hybrid_search_+_reranking)-teal?style=flat&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-black?style=flat&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/-Anthropic_API-black?style=flat&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-blue?style=flat&logo=postgresql&logoColor=white)
+
 ### AI & Data Science:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green?style=flat&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?style=flat&logo=deep-learning&logoColor=white)
@@ -44,6 +56,11 @@ const expertise = {
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-blue?style=flat&logo=openai&logoColor=white)
 
 ### Frameworks & Libraries:
+![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-red?style=flat&logo=pydantic&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js_15-black?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-blue?style=flat&logo=pytest&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
@@ -96,10 +113,21 @@ const expertise = {
 
 ## 💼 Experience
 
-### MAindTec GmbH, Ingolstadt, Germany
-**AI & Software Engineer** *(April 2025 - Ongoing)*
-- Onboarding to build a scalable RAG pipeline for document search
-- Using Pinecone, LangChain, and Azure containers for deployment
+### MAindTec GmbH (B2B AI SaaS Startup), Ingolstadt, Germany
+**Chief Technology Officer (CTO)** *(January 2026 - Present)*
+- Lead end-to-end delivery of complex GenAI and Agentic AI programmes for enterprise clients in manufacturing and automotive
+- Work directly with customers to translate business challenges into scalable, production-grade AI solutions
+- Build production agentic AI systems with LangGraph: multi-agent orchestration, tool calling, structured output validation
+- Architected hybrid RAG pipelines (pgvector, BM25 + dense + Cohere reranking) with LangSmith observability in production
+- Act as bridge between engineering teams, C-level stakeholders, and business users across all client engagements
+- Delivered 3 projects end-to-end from discovery through deployment; lead 9 engineers across all functions
+
+**Lead Solution Engineer, AI and DevOps** *(June 2025 - December 2025)*
+- Delivered end-to-end AI solutions for enterprise clients; led technical demos, scoping sessions, and architecture decisions
+- Built agentic workflows with LangGraph; deployed scalable services on Azure with CI/CD and production monitoring
+
+**AI and Software Engineer** *(April 2025 - May 2025)*
+- Built RAG-powered AI applications with LangChain and FastAPI; first production deployment on Azure with CI/CD
 
 ### Otto-von-Guericke University, Magdeburg, Germany
 **Research Assistant - Generative AI** *(December 2024 - March 2025)*
@@ -147,6 +175,12 @@ const expertise = {
 - Key subjects: Data Structures, DBMS, Data Analytics, Machine Learning, AI
 
 ## 📚 Projects
+
+### MAiQ — AI Engineering Platform
+**Production B2B SaaS, Enterprise Clients** *(2025 - Present)*
+- Enterprise AI platform: LangGraph agents, hybrid RAG, MCP servers, LangSmith observability
+- Multi-tenant with RBAC and SAML SSO; serving manufacturing and automotive clients in production
+- **Technologies**: Next.js 15, FastAPI, pgvector, Azure Container Apps
 
 ### Multi-Perspective Video Analysis System
 **Master Thesis (Grade: 1.3)** *(March 2024 - October 2024)*
