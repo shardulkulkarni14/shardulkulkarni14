@@ -193,8 +193,3 @@ const expertise = {
 - **Smart India Hackathon 2020** — Top-5 finalist nationwide (Government of India, 10,000+ teams)
 - **"Solve for Safer India" Hackathon** — finalist
 - Multiple winner / runner-up placements in university technical competitions, 2018-2020
-
-## 📈 GitHub Stats
-
-![Shardul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shardulkulkarni14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulkulkarni14&layout=compact&theme=radical)
