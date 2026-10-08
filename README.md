@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shardul Kulkarni!
 
-Welcome to my GitHub profile! I'm **CTO at MAindTec GmbH**, a B2B AI SaaS startup in Germany, where I lead end-to-end delivery of **GenAI and Agentic AI** programmes for enterprise clients in manufacturing and automotive. I build production agentic systems — multi-agent LangGraph orchestration, hybrid RAG (pgvector, BM25 + dense + Cohere reranking), MCP servers, LangSmith observability — plus predictive ML products, and I lead a team of 9 engineers from discovery through deployment. My background combines Generative AI, Computer Vision, and Deep Learning research with hands-on software engineering.
+Welcome to my GitHub profile! I'm **Founding AI Engineer at MAindTec GmbH**, a B2B AI SaaS startup in Germany, where I lead end-to-end delivery of **GenAI and Agentic AI** programmes for enterprise clients in manufacturing and automotive. I build production agentic systems — multi-agent LangGraph orchestration, hybrid RAG (pgvector, BM25 + dense + Cohere reranking), MCP servers, LangSmith observability — plus predictive ML products, and I lead a team of 9 engineers from discovery through deployment. My background combines Generative AI, Computer Vision, and Deep Learning research with hands-on software engineering.
 
 ```javascript
 // AI expertise areas
@@ -12,6 +12,10 @@ const expertise = {
   goals: "Shipping AI systems that solve real-world enterprise problems"
 };
 ```
+
+## 🛠️ Featured Project
+
+**[honestapply](https://github.com/shardulkulkarni14/honestapply)** — an open-source, local-first autonomous job-application agent built on MCP tool calls, with an *enforced* no-fabrication guarantee: every résumé fact is substring-verified against the tailored output, so it never invents experience the candidate doesn't have. Runs entirely on your own machine; offline demo, no API key needed. **Python · FastAPI · SQLite · AGPL-3.0.**
 
 ## 🔗 Connect with Me
 
@@ -93,7 +97,7 @@ const expertise = {
 ## 💼 Experience
 
 ### MAindTec GmbH (B2B AI SaaS Startup), Ingolstadt, Germany
-**Chief Technology Officer (CTO)** *(January 2026 - Present)*
+**Founding AI Engineer** *(January 2026 - Present)* — *previously Chief Technology Officer (CTO)*
 - Lead end-to-end delivery of GenAI and agentic AI programmes for enterprise clients in manufacturing and automotive, from discovery and solution design through production rollout and adoption
 - Build production multi-agent systems with LangGraph (tool calling, MCP, structured-output validation), including an agentic PMO automation capability I built into the platform
 - Built **SpendSense**, an AI price-benchmarking and cost-optimisation product, using LightGBM and Python from proof of concept to production flagship with measurable commercial impact
